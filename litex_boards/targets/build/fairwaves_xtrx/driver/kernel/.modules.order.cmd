@@ -1,0 +1,1 @@
+cmd_/home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/modules.order := {   echo /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/litepcie.ko; :; } | awk '!x[$$0]++' - > /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/modules.order

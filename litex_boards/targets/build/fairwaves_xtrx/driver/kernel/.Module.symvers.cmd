@@ -1,0 +1,1 @@
+cmd_/home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/Module.symvers := sed 's/ko$$/o/' /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/modules.order | scripts/mod/modpost -m -a   -o /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/Module.symvers -e -i Module.symvers   -T -

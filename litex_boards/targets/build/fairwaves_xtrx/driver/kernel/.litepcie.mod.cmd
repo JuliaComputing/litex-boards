@@ -1,0 +1,1 @@
+cmd_/home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/litepcie.mod := { echo  /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/main.o;  echo; } > /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/litepcie.mod

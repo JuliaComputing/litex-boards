@@ -1,0 +1,1 @@
+cmd_/home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/litepcie.o := ld -m elf_x86_64   -r -o /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/litepcie.o /home/sjkelly/litex-boards/litex_boards/targets/build/fairwaves_xtrx/driver/kernel/main.o
